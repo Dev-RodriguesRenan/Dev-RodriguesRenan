@@ -1,6 +1,6 @@
 <h3 align="center">Developer back end in python</h3>
 
-- 🔭 Atualmente estou trabalhando **VJ_Bots**
+- 🔭 Atualmente estou estagiando **VJ_Bots**
 
 - 🌱Atualmente estou aprendendo **Frameworks e libs em Python**
 
