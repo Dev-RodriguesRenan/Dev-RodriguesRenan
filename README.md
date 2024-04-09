@@ -1,14 +1,14 @@
 <h3 align="center">Developer back end in python</h3>
 
-- 🔭 Atualmente estou estagiando **VJ_Bots**
+- 💻 Atualmente estou estagiando **VJ_Bots**
 
-- 🌱Atualmente estou aprendendo **Frameworks e libs em Python**
+- 🙏 Atualmente estou aprendendo **Frameworks e libs em Python**
 
 - 💬 Pergunte-me sobre **O que não é possível com Python**
 
-- 📫Como chegar até mim **dev.rodrigues.renan@gmail.com**
+- 📧 Como chegar até mim **dev.rodrigues.renan@gmail.com**
 
-- ⚡ Curiosidades **Gosto de Java**
+- ☕ Curiosidades **Gosto de Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
