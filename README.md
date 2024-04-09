@@ -1,6 +1,6 @@
 <h3 align="center">Developer in python</h3>
 
-- 💻 Atualmente estagiando..
+- 💻 Atualmente estagiando... 
  **VJ_Bots**
 
 - 💡 Atualmente estou estudando: **frameworks e libs em python**
@@ -9,7 +9,7 @@
 
 - 📧 como chegar até min ? **dev.rodrigues.renan@gmail.com**
 
-- ☕ curiosidades: **amo café e java & python**
+- ☕ curiosidades: **amo café, java & python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
