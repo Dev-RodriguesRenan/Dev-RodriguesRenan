@@ -1,7 +1,7 @@
-<h3 align="center">Developer in python</h3>
+<h3 align="center">Developer BR</h3>
 
 - 💻 Atualmente estagiando... 
- **VJ_Bots**
+
 
 - 💡 Atualmente estou estudando: **frameworks e libs em python**
 
