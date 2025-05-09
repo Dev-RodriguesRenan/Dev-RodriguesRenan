@@ -1,20 +1,20 @@
-<h1>Hi There! 👋🏽</h1>
+<h1>Bem vindo ao meu GitHub :) 🐈‍</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanrodrigues7110/)](https://www.linkedin.com/in/renanrodrigues7110/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-6633cc?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Dev-RodriguesRenan)](https://github.com/Dev-RodriguesRenan)
 [![Gmail Badge](https://img.shields.io/badge/-dev.rodrigues.renan@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rodrigues.renan@gmail.com)](mailto:dev.rodrigues.renan@gmail.com)
 
-## My name is Renan S Rodrigues
+## Meu nome é Renan S. Rodrigues
 (Python | Java | React Native | Node JS | Vue JS |Machine Learning | Data Science | Deep Learning | HTML | CSS | JavaScript | SQL) 💻 
 (Django | Flask | Spring Boot | Tensoflow | Pytorch | Sckit-Learn | JPA | FastAPI | Pandas | SQLAlchemy) 👽
-- 👩‍💻 Python Mid-level Developer @[VJ Bots](https://www.vjbots.com.br/)
-- 🎥 Tech content creator, I create programming tutorials on my [YouTube Channel](https://www.youtube.com/@Dev.Renan.Rodrigues
+- 👩‍💻 Desenvolvedor Python nivel pleno em @[VJ Bots](https://www.vjbots.com.br/)
+- 🎥 Criador de conteudo digital de programação, tutoriais e informação em meu canal [YouTube Channel](https://www.youtube.com/@Dev.Renan.Rodrigues
 )
-- 🎓 Technologist in Systems Analysis and Development
-- 🌐 Passionate about back-end development
-- 💡 I love a good challenge and space exploration 🏳️
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🌐 Apaixonado por tecnologia e desenvolvimento back-end
+- 💡 Adoro um bom desafio e novas ideias revolucionarias 🏳️
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="left">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RodriguesRenan&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Se conecte comigo:
 <p align="left">
 <a href="https://twitter.com/_little_renan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_little_renan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/renanrodrigues7110" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renan rodrigues" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Linguagens e Frameworks:
 <p align="left"> 
   <!-- linguagens -->
   <!-- java -->
