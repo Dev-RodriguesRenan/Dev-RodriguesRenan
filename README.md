@@ -1,7 +1,7 @@
 <h1>Hi There! 👋🏽</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renanrodrigues7110/)](https://www.linkedin.com/in/renanrodrigues7110/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-6633cc?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Renan-RodriguesDEV)](https://github.com/Renan-RodriguesDEV)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-6633cc?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Dev-RodriguesRenan)](https://github.com/Dev-RodriguesRenan)
 [![Gmail Badge](https://img.shields.io/badge/-dev.rodrigues.renan@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.rodrigues.renan@gmail.com)](mailto:dev.rodrigues.renan@gmail.com)
 
 ## My name is Renan S Rodrigues
@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-RodriguesDEV&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-RodriguesRenan&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ---
@@ -37,15 +37,19 @@
 ### 🛠️ Languages and Tools:
 <p align="left"> 
   <!-- linguagens -->
+  <!-- java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
+  <!-- python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  <!-- react native -->
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/> 
+</a> 
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -57,14 +61,11 @@
  <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;"/> 
-</a>
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+</a> 
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
-  <!-- scitlearn -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
    <!-- tensorflow -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
